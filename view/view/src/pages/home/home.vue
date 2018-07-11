@@ -5,7 +5,7 @@
 		<lanmu></lanmu>
 		<guanggao></guanggao>
 		<shop></shop>
-		
+
 	</div>
 </template>
 <script>
@@ -33,7 +33,6 @@
 					console.log(err);
 				});
 		}
-
 	}
 </script>
 
