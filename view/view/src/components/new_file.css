@@ -1,0 +1,4 @@
+@winth:2px;
+.div{
+	width: @winth;
+}
