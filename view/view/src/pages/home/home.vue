@@ -13,8 +13,9 @@
 	import daohang from './daohang';
 	import lunbo from './lunbo';
 	import lanmu from './lanmu';
-	import guanggao from './guanggao'
-	
+	import guanggao from './guanggao';
+	import shop from './shop';
+
 	export default {
 		components: {
 			daohang,
