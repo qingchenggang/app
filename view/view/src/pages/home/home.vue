@@ -5,7 +5,7 @@
 		<lanmu></lanmu>
 		<guanggao></guanggao>
 		<shop></shop>
-		<div></div>
+		
 	</div>
 </template>
 <script>
